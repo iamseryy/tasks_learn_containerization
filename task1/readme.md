@@ -26,8 +26,9 @@
 
 ![](image5.png)
 
-6.	Включаем интерфейс veth0-task1: sudo ip link set veth0-task1 up
-Присваиваем ip: **sudo ip addr add 10.0.0.1/24 dev veth0-task1**
+6.	Включаем интерфейс veth0-task1: **sudo ip link set veth0-task1 up**
+
+    Присваиваем ip: **sudo ip addr add 10.0.0.1/24 dev veth0-task1**
 
 ![](image6.png)
 
