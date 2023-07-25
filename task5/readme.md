@@ -66,7 +66,7 @@
 
     *   Развертываем:
         *   docker stack deploy -c ./docker-compose-lab.yml task5-lab
-        *   docker stack deploy -c ./docker-compose-lab.yml task5-dev
+        *   docker stack deploy -c ./docker-compose-dev.yml task5-dev
 
         ![](images/image16.png)
 
